@@ -58,3 +58,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+CollaborateExample/Temp/UnityLockfile
+CollaborateExample/Temp/
+CollaborateExample/Library/ArtifactDB
+CollaborateExample/Library/ArtifactDB-lock
+CollaborateExample/Library/SourceAssetDB
+CollaborateExample/Library/SourceAssetDB-lock
